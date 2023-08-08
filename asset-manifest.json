@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hardhat-web/static/css/main.ed755b1a.css",
-    "main.js": "/hardhat-web/static/js/main.f91cfdc9.js",
-    "static/js/ort-wasm-simd.wasm": "/hardhat-web/static/js/ort-wasm-simd.wasm",
-    "static/js/ort-wasm-simd-threaded.wasm": "/hardhat-web/static/js/ort-wasm-simd-threaded.wasm",
-    "static/js/ort-wasm.wasm": "/hardhat-web/static/js/ort-wasm.wasm",
-    "static/js/ort-wasm-threaded.wasm": "/hardhat-web/static/js/ort-wasm-threaded.wasm",
-    "index.html": "/hardhat-web/index.html",
-    "main.ed755b1a.css.map": "/hardhat-web/static/css/main.ed755b1a.css.map",
-    "main.f91cfdc9.js.map": "/hardhat-web/static/js/main.f91cfdc9.js.map"
+    "main.css": "/HardHat-Web/static/css/main.ed755b1a.css",
+    "main.js": "/HardHat-Web/static/js/main.ca72cfeb.js",
+    "static/js/ort-wasm-simd.wasm": "/HardHat-Web/static/js/ort-wasm-simd.wasm",
+    "static/js/ort-wasm-simd-threaded.wasm": "/HardHat-Web/static/js/ort-wasm-simd-threaded.wasm",
+    "static/js/ort-wasm.wasm": "/HardHat-Web/static/js/ort-wasm.wasm",
+    "static/js/ort-wasm-threaded.wasm": "/HardHat-Web/static/js/ort-wasm-threaded.wasm",
+    "index.html": "/HardHat-Web/index.html",
+    "main.ed755b1a.css.map": "/HardHat-Web/static/css/main.ed755b1a.css.map",
+    "main.ca72cfeb.js.map": "/HardHat-Web/static/js/main.ca72cfeb.js.map"
   },
   "entrypoints": [
     "static/css/main.ed755b1a.css",
-    "static/js/main.f91cfdc9.js"
+    "static/js/main.ca72cfeb.js"
   ]
 }
