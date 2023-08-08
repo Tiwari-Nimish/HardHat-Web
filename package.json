@@ -12,6 +12,7 @@
   "scripts": {
     "start": "craco start",
     "build": "craco build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -47,6 +48,6 @@
   "devDependencies": {
     "@craco/craco": "^7.0.0",
     "copy-webpack-plugin": "^11.0.0",
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^5.0.0"
   }
 }
