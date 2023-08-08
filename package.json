@@ -1,6 +1,6 @@
 {
-  "name": "yolov8-onnxruntime-web",
-  "homepage": "https://hyuto.github.io/yolov8-onnxruntime-web/",
+  "name": "hardhat-web",
+  "homepage": "https://tiwari-nimish.github.io/hardhat-web/",
   "version": "0.1.0",
   "dependencies": {
     "@techstark/opencv-js": "4.5.5-release.2",
@@ -33,16 +33,16 @@
     ]
   },
   "author": {
-    "name": "Wahyu Setianto",
-    "url": "https://github.com/Hyuto"
+    "name": "Nimish Tiwari",
+    "url": "https://github.com/tiwari-nimish"
   },
-  "license": "MIT",
+  "license": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hyuto/yolov8-onnxruntime-web.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/Hyuto/yolov8-onnxruntime-web/issues"
+    "url": ""
   },
   "devDependencies": {
     "@craco/craco": "^7.0.0",
